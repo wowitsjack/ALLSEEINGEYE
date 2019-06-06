@@ -9,10 +9,10 @@ It's written entirely in Bash, and can should be portable across *NIX, WSL, and 
 
 Requires ``shodan`` binary.
 
-``sudo apt install shodan` (Linux)
+``sudo apt install shodan`` (Linux)
 ``sudo brew install shodan`` (macOS)
 
 ## Pictures
 
 ### Command Line Main UI
-![Main UI](https://i.imgur.com/oYkEFN0.png)
+![Main UI](https://i.imgur.com/vPozkQN.png)
