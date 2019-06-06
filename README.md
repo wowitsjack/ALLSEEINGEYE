@@ -5,12 +5,16 @@ It also features Netcat, Telnet, OpenSSL, and SSH connection functionality with 
 
 It's written entirely in Bash, and can should be portable across *NIX, WSL, and macOS without too many issues.
 
-## Requirements:
+## Requirements/Installation:
 
 Requires ``shodan`` binary.
 
-``sudo apt install shodan`` (Linux)
-``sudo brew install shodan`` (macOS)
+## macOS
+``sudo apt install shodan``
+``git clone github.com/wowitsjack/ALLSEEINGEYE/``
+## Linux
+``sudo brew install shodan``
+``git clone github.com/wowitsjack/ALLSEEINGEYE/``
 
 ## Usage
 
