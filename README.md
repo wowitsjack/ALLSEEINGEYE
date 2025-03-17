@@ -3,7 +3,7 @@ A toolkit designed to enable the user to rapidly enumerate large sections of the
 
 It also features Netcat, Telnet, OpenSSL, and SSH connection functionality with the option to easily add more.
 
-It's written entirely in Bash, and can should be portable across *NIX, WSL, and macOS without too many issues.
+It's written entirely in Bash, and can should be portable across *NIX, WSL, and macOS without too many issues. 
 
 ## Requirements/Installation:
 
